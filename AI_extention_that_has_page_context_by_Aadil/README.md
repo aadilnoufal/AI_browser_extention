@@ -44,3 +44,8 @@ pip install beautifulsoup4 selenium webdriver-manager requests
 ## How It Works
 
 The browser extension captures the HTML content of the current webpage and sends it to the Browser Buddy application. The application processes this content to extract meaningful context, which is then included in your interactions with the AI assistant.
+
+![Screenshot 2025-03-15 201405](https://github.com/user-attachments/assets/d074499d-8715-42f3-b8b3-1895e9995e80)
+
+press reset to start a new chat
+
